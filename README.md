@@ -1,4 +1,4 @@
-## AMOC-2019
+## FOODALITY
 ___
 *AR based dining experience*
 
